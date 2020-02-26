@@ -1,4 +1,4 @@
-baseurl = "test-school-dev.netlify.com"
+baseurl = "/"
 languageCode = "en-us"
 title = "Hugo Grapes Theme"
 theme = "hugo-grapes"
