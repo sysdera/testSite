@@ -1,7 +1,6 @@
 ---
 title: "success"
 date: 2020-02-24T13:39:12-08:00
-draft: true
+draft: false
 ---
-
-<h1>200 OK</h1>
+200 OK
